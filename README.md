@@ -1,2 +1,2 @@
 # wpcmonslayer
-kills wpcmon (Microsoft Family Safety Monitor) upon startup of the computer.
+kills wpcmon (Microsoft FS Monitor) upon startup of the computer.
